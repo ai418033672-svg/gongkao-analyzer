@@ -1,0 +1,44 @@
+{
+  "format": "gongkao-major-policy",
+  "version": 1,
+  "context": {
+    "province": "江苏",
+    "year": "2099",
+    "examType": "普通省考"
+  },
+  "strategy": "enumeration",
+  "source": {
+    "title": "虚构专业目录示例：仅用于软件演示，不是真实招录规则",
+    "url": "https://example.org/fictional-catalog"
+  },
+  "nodes": [
+    {
+      "id": "group",
+      "kind": "category",
+      "name": "示例工程类",
+      "education": "本科"
+    },
+    {
+      "id": "textile",
+      "kind": "major",
+      "name": "示例纺织工程",
+      "education": "本科"
+    },
+    {
+      "id": "law",
+      "kind": "major",
+      "name": "示例法学",
+      "education": "本科"
+    }
+  ],
+  "edges": [
+    {
+      "parent": "group",
+      "child": "textile",
+      "evidence": {
+        "location": "虚构表格第2行",
+        "text": "示例工程类：示例纺织工程。"
+      }
+    }
+  ]
+}
