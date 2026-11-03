@@ -1,0 +1,117 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-02",
+  "coverage": "当前维护广东、江苏2027省考固定官方资料清单；江苏尚需补充其他地市简章、系统材料。",
+  "entries": [
+    {
+      "id": "js-notice",
+      "province": "江苏",
+      "year": "2027",
+      "title": "江苏省2027年度考试录用公务员公告",
+      "url": "https://jshrss.jiangsu.gov.cn/art/2026/10/30/art_93730_11852195.html",
+      "expectedAttachments": true,
+      "city": "",
+      "publishedAt": "2026-10-30",
+      "note": ""
+    },
+    {
+      "id": "js-guide",
+      "province": "江苏",
+      "year": "2027",
+      "title": "江苏省2027年度考试录用公务员报考指南",
+      "url": "https://jshrss.jiangsu.gov.cn/art/2026/10/30/art_93731_11852197.html",
+      "expectedAttachments": false,
+      "city": "",
+      "publishedAt": "2026-10-30",
+      "note": ""
+    },
+    {
+      "id": "js-catalog",
+      "province": "江苏",
+      "year": "2027",
+      "title": "江苏省2027年度考试录用公务员专业参考目录",
+      "url": "https://jshrss.jiangsu.gov.cn/art/2026/10/30/art_93733_11852176.html",
+      "expectedAttachments": true,
+      "city": "",
+      "publishedAt": "2026-10-30",
+      "note": ""
+    },
+    {
+      "id": "js-provincial",
+      "province": "江苏",
+      "year": "2027",
+      "title": "江苏省2027年度考试录用公务员省级机关职位简介表",
+      "url": "https://jshrss.jiangsu.gov.cn/art/2026/10/30/art_93732_11852212.html",
+      "expectedAttachments": true,
+      "city": "省直",
+      "publishedAt": "2026-10-30",
+      "note": "省级机关职位表；各市和垂管资料分开勾选。"
+    },
+    {
+      "id": "js-cities",
+      "province": "江苏",
+      "year": "2027",
+      "title": "江苏省2027年度考试录用公务员各市职位简介表",
+      "url": "https://jshrss.jiangsu.gov.cn/art/2026/10/30/art_93732_11852211.html",
+      "expectedAttachments": true,
+      "city": "",
+      "publishedAt": "2026-10-30",
+      "note": "各市打包ZIP；地市简章需另行补齐，不等于收齐全省资格条件。"
+    },
+    {
+      "id": "js-vertical",
+      "province": "江苏",
+      "year": "2027",
+      "title": "江苏省2027年度考试录用公务员垂管单位职位简介表",
+      "url": "https://jshrss.jiangsu.gov.cn/art/2026/10/30/art_93732_11852208.html",
+      "expectedAttachments": true,
+      "city": "",
+      "publishedAt": "2026-10-30",
+      "note": "以该页实际提供的附件为准，其他垂管材料仍需核对。"
+    },
+    {
+      "id": "nj-notice",
+      "province": "江苏",
+      "year": "2027",
+      "title": "南京市2027年度考试录用公务员简章",
+      "url": "https://zzb.nanjing.gov.cn/gwygz/gwygl/gwyklzt/202610/t20261030_6029496.html",
+      "expectedAttachments": false,
+      "city": "南京",
+      "publishedAt": "2026-10-30",
+      "note": ""
+    },
+    {
+      "id": "nj-guide",
+      "province": "江苏",
+      "year": "2027",
+      "title": "南京市2027年度考试录用公务员报考指南",
+      "url": "https://zzb.nanjing.gov.cn/gwygz/gwygl/gwyklzt/202610/t20261030_6029495.html",
+      "expectedAttachments": false,
+      "city": "南京",
+      "publishedAt": "2026-10-30",
+      "note": ""
+    },
+    {
+      "id": "nj-jobs",
+      "province": "江苏",
+      "year": "2027",
+      "title": "南京市2027年度考试录用公务员职位简介表",
+      "url": "https://zzb.nanjing.gov.cn/gwygz/gwygl/gwyklzt/202610/t20261030_6029494.html",
+      "expectedAttachments": true,
+      "city": "南京",
+      "publishedAt": "2026-10-30",
+      "note": ""
+    },
+    {
+      "id": "gd-pack",
+      "province": "广东",
+      "year": "2027",
+      "title": "广东省2027年考试录用公务员公告及附件1—5",
+      "url": "https://www.gdzz.gov.cn/gwygz/lypytzgg/content/post_26299.html",
+      "expectedAttachments": true,
+      "city": "",
+      "publishedAt": "2026-10-30",
+      "note": "集中ZIP包含职位表、报考指南、专业目录、笔试大纲、咨询电话。"
+    }
+  ]
+}
